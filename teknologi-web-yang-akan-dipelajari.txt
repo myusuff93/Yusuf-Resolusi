@@ -26,6 +26,11 @@ Design Tools :
  1. MYSQL
  2. MongoDB
  
+ === TAMBAHAN ===
+ 1. Algoritma
+ 2. Struktur Data Dasar
+ 
+ 
  === SUMBER BELAJAR ===
  1. Web Programming UNPAS
  2. Programmer Zaman Now

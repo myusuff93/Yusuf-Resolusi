@@ -1,0 +1,11 @@
+Jadwal Belajar
+Senin - Minggu (All Day)
+
+  Start at 05.00 
+  End at 12.00
+
+Rest 12.00 - 13.00  
+
+  Start again at 13.00 
+  End at 22.00
+ 
